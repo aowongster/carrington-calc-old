@@ -42,7 +42,17 @@ Thumbs.db
 ########
 node_modules/*
 
+### recently updated git ignore list
+
 # Coveralls #
 #############
 coverage/*
 .coveralls.yml
+
+# Bower #
+#########
+bower_components/*
+
+# Build #
+#########
+# build/*.min.js
