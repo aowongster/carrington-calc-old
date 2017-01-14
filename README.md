@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/aowongster/carrington-calc-old.svg?branch=master)](https://travis-ci.org/aowongster/carrington-calc-old)
 ![Dependency Status](https://david-dm.org/aowongster/carrington-calc-old.svg)
-[![Coverage Status](https://coveralls.io/repos/aowongster/carrington-calc-old/badge.svg)](https://coveralls.io/r/aowongster/carrington-calc-old)
+[![Coverage Status](https://coveralls.io/repos/github/aowongster/carrington-calc-old/badge.svg?branch=master)](https://coveralls.io/github/aowongster/carrington-calc-old?branch=master)
 
 # Carrington Calculator
 
@@ -8,7 +8,7 @@ Do those pesky Carrington Calculations on the fly!
 
 ## Get these node tools
   npm install -g grunt-cli bower istanbul karma
-  
+
 ## Built With
 
 * [Node NPM][0] - node package manager
